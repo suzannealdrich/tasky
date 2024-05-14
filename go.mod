@@ -1,4 +1,4 @@
-module github.com/jeffthorne/tasky
+module github.com/suzannealdrich/tasky
 
 go 1.18
 
